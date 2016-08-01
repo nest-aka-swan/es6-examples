@@ -1,0 +1,1 @@
+{"version":3,"sources":["animal.js"],"names":[],"mappings":";;;;AAAA;;;IAGM,M","file":"animal-compiled.js","sourcesContent":["/**\r\n * Created by Lebedev on 29.07.2016.\r\n */\r\nclass Animal {\r\n\r\n}"]}
